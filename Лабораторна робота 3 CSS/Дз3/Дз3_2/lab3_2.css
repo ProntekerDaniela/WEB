@@ -1,0 +1,15 @@
+table {
+    border:solid Black ;
+}
+.blue td {
+    background: RoyalBlue;
+}
+.pink {
+    background: Pink;
+}
+.blue2 {
+    background: SkyBlue;
+}
+.light {
+    background: LightCyan;
+}

@@ -1,0 +1,18 @@
+table {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    text-align: left;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background: SteelBlue;
+    color: Blue;
+
+
+    }
+    th {
+    font-size: 18px;
+    padding: 10px;
+    }
+    td {
+    background: White;
+    padding: 10px;
+    }

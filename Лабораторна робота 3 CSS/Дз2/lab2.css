@@ -1,0 +1,42 @@
+.blue {
+    color:RoyalBlue ;
+}
+.red {
+    color:Red;
+}
+.yellow {
+    color: Gold;
+}
+.gray {
+    color: DarkGrey;
+}
+.green {
+color: SpringGreen;
+}
+.teal {
+    color: DarkTurquoise;
+}
+.blue2 {
+    color:DodgerBlue ;
+}
+.second, .third {
+    margin-left: 50px;
+}
+.layer1 {
+    margin-left: 6%;
+}
+.layer2, .layer3 {
+    margin-left: 3%;
+}
+li {
+    margin-bottom: 3px;
+}
+#indent1 {
+    margin-left: 680px;
+}
+#indent2 {
+    margin-left: 590px;
+}
+#indent3 {
+    margin-left: 560px;
+}
