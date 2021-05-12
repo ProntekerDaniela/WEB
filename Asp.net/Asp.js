@@ -8,14 +8,14 @@ function validate(){
 
   let number1 = document.getElementsByName("number1")[0].value;
   if (!isNumber1Valid(number1)){
-      document.getElementsByClassName("error")[1].innerText = "Введіть додатнє ціле число";
+      document.getElementsByClassName("error")[1].innerText = "Введіть додатне ціле число";
   } else{
       document.getElementsByClassName("error")[1].innerText = "";
   }
 
   let number2 = document.getElementsByName("number2")[0].value;
   if (!isNumber2Valid(number2)){
-      document.getElementsByClassName("error")[2].innerText = "Введіть додатнє ціле число";
+      document.getElementsByClassName("error")[2].innerText = "Введіть додатне ціле число";
   } else{
       document.getElementsByClassName("error")[2].innerText = "";
   }
@@ -23,7 +23,7 @@ function validate(){
 
   let number3 = document.getElementsByName("number3")[0].value;
   if (!isNumber3Valid(number3)){
-      document.getElementsByClassName("error")[3].innerText = "Введіть додатнє ціле число";
+      document.getElementsByClassName("error")[3].innerText = "Введіть додатне ціле число";
   } else{
       document.getElementsByClassName("error")[3].innerText = "";
   }
