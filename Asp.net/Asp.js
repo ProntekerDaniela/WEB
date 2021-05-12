@@ -8,7 +8,7 @@ function validate(){
 
   let number1 = document.getElementsByName("number1")[0].value;
   if (!isNumber1Valid(number1)){
-      document.getElementsByClassName("error")[1].innerText = "Введіть додатнє число";
+      document.getElementsByClassName("error")[1].innerText = "Введіть додатнє ціле число";
   } else{
       document.getElementsByClassName("error")[1].innerText = "";
   }
